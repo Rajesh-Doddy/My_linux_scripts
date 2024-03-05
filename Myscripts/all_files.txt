@@ -1,0 +1,43 @@
+total 152
+-rwxrwxrwx 1 ubuntu ubuntu  31 Feb  7 10:15 01_basic.sh
+-rw-r--r-- 1 root   root   120 Feb  7 10:28 02_comments.sh
+-rw-r--r-- 1 root   root   262 Feb  7 10:38 03_vardemo.sh
+-rw-r--r-- 1 root   root   110 Feb  7 10:42 04_constant_var.sh
+-rw-r--r-- 1 root   root   575 Feb  7 11:02 05_arrays.sh
+-rw-r--r-- 1 root   root   216 Feb  7 11:09 06_keyvalue.sh
+-rw-r--r-- 1 root   root   361 Feb  7 11:23 07_string_ops.sh
+-rw-r--r-- 1 root   root    75 Feb  7 11:31 08_user_int.sh
+-rw-r--r-- 1 root   root   305 Feb  7 11:52 09_arith_ops.sh
+-rw-r--r-- 1 root   root   136 Feb  7 12:26 10_if_else.sh
+-rw-r--r-- 1 ubuntu ubuntu 247 Feb  7 12:27 11_elif_demo.sh
+-rw-r--r-- 1 ubuntu ubuntu 255 Feb  7 17:03 12_case_demo.sh
+-rw-r--r-- 1 root   root   426 Feb  7 18:25 13_logical-ops.sh
+-rw-r--r-- 1 root   root   230 Feb  7 18:32 14_ternary-ops.sh
+-rw-r--r-- 1 root   root   135 Feb  7 18:48 15_forloop1.sh
+-rw-r--r-- 1 root   root   151 Feb  7 19:04 16_for_with_file.sh
+-rw-rw-r-- 1 ubuntu ubuntu  79 Feb  7 19:07 names.txt
+-rw-r--r-- 1 root   root   156 Feb  8 10:34 17_for_with_array.sh
+-rw-r--r-- 1 root   root   104 Feb  8 10:40 18_while-demo.sh
+-rw-r--r-- 1 root   root    84 Feb  8 10:44 19_until_loop.sh
+-rw-r--r-- 1 root   root    75 Feb  8 10:47 20_infinite_loop.sh
+-rw-rw-r-- 1 ubuntu ubuntu  78 Feb  8 10:51 21_infinite_forloop.sh
+-rw-r--r-- 1 root   root   115 Feb  8 10:55 22_while_with_file.sh
+-rw-r--r-- 1 root   root    44 Feb  8 10:59 test.csv
+-rw-r--r-- 1 root   root   155 Feb  8 11:02 23_while_with_csv.sh
+-rw-r--r-- 1 root   root   150 Feb  8 11:18 24_while_csv.sh
+-rw-r--r-- 1 root   root   260 Feb  8 11:28 25_function-demo.sh
+-rw-r--r-- 1 root   root    67 Feb  8 11:32 26_function_1.sh
+-rw-r--r-- 1 root   root   240 Feb  8 11:43 27_funtion_with_arguments.sh
+-rw-r--r-- 1 ubuntu ubuntu 450 Feb  8 12:09 calculator.sh
+-rw-r--r-- 1 root   root   143 Feb  9 13:53 29_shift_args.sh
+-rw-r--r-- 1 root   root   305 Feb  9 14:06 31_break.sh
+-rw-r--r-- 1 root   root   400 Feb  9 14:19 30_continue.sh
+-rw-r--r-- 1 root   root   184 Feb  9 14:40 32_connectivity-check.sh
+-rw-r--r-- 1 root   root   155 Feb  9 14:51 33_file-exist_check.sh
+-rw-r--r-- 1 root   root   468 Feb 17 05:45 28_arguments_pass.sh
+-rw-r--r-- 1 root   root   104 Feb 17 06:52 34_dice.sh
+-rw-r--r-- 1 root   root   126 Feb 17 06:57 35_rootuser-check.sh
+-rw-rw-r-- 1 ubuntu ubuntu   0 Feb 17 07:05 all_files.txt
+Sat Feb 17 07:05:19 UTC 2024
+/home/ubuntu/Myscripts
+ip-172-31-40-47
